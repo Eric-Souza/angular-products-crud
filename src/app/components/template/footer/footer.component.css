@@ -6,7 +6,10 @@
   justify-content: flex-end;
 }
 
-.footer span {
+.footer a {
   font-weight: 300;
   font-size: 1.1rem;
+  cursor: pointer;
+  text-decoration: none;
+  color: #FFF;
 }
