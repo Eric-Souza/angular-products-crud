@@ -6,6 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * "npm install" on parent folder to install all packages and dependencies used.
 
-* "npm run server" on "server" folder to start the json-server database (back end).
+* "npm run server" on "server" folder to start the json-server database (back end) on port 3001.
 
 * "npm start" on parent folder to start the app on port 4200.
