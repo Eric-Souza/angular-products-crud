@@ -10,3 +10,15 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .y-align-middle {
   vertical-align: middle;
 }
+
+.edit {
+  margin-right: 5px;
+}
+
+.edit > i {
+  color: #d9cd26;
+}
+
+.delete > i {
+  color: #ed5e6d;
+}

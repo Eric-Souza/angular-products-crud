@@ -14,11 +14,6 @@
       "id": 3,
       "name": "Chair",
       "price": "5"
-    },
-    {
-      "name": "Computer",
-      "price": "3000",
-      "id": 5
     }
   ]
 }
