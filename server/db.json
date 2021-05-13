@@ -3,19 +3,22 @@
     {
       "id": 1,
       "name": "Pencil",
-      "price": 1
+      "price": "1"
     },
-
     {
       "id": 2,
-      "name": "Notebook",
-      "price": 10
+      "name": "Journal",
+      "price": "8"
     },
-
     {
       "id": 3,
       "name": "Chair",
-      "price": 5
+      "price": "5"
+    },
+    {
+      "name": "Computer",
+      "price": "3000",
+      "id": 5
     }
   ]
 }
