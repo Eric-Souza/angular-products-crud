@@ -1,14 +1,69 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Pencil",
-      "price": "2"
+      "name": "Tesla Diecast 1:18 Scale Model S",
+      "price": "175",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Journal",
-      "price": "8"
+      "name": "Tesla Diecast 1:18 Scale Model 3",
+      "price": "175",
+      "id": 2
+    },
+    {
+      "name": "Tesla Diecast 1:24 Scale Semi",
+      "price": "175",
+      "id": 3
+    },
+    {
+      "name": "Tesla Travel Mug",
+      "price": "30",
+      "id": 4
+    },
+    {
+      "name": "Tesla Umbrella",
+      "price": "60",
+      "id": 5
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "price": "999",
+      "id": 6
+    },
+    {
+      "name": "iPhone 11",
+      "price": "599",
+      "id": 7
+    },
+    {
+      "name": "iPhone X",
+      "price": "499",
+      "id": 8
+    },
+    {
+      "name": "Microsoft Surface Studio 2",
+      "price": "3499.99",
+      "id": 9
+    },
+    {
+      "name": "HP Pavilion All-in-One PC",
+      "price": "1199.99",
+      "id": 10
+    },
+    {
+      "name": "Lenovo Legion Tower Desktop",
+      "price": "1214.99",
+      "id": 11
+    },
+    {
+      "name": "CyberPower Supreme Desktop",
+      "price": "2189.99",
+      "id": 12
+    },
+    {
+      "name": "Asus ROG Strix Desktop",
+      "price": "1799",
+      "id": 13
     }
   ]
 }
