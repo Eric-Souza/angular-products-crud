@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-products-92f9a": {
+      "hosting": {
+        "angular-json-crud": [
+          "angular-products-92f9a"
+        ]
+      }
+    }
+  }
+}

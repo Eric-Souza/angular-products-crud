@@ -105,6 +105,10 @@
           "options": {
             "browserTarget": "angular-json-crud:build"
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
