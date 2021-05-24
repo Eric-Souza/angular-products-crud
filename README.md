@@ -1,6 +1,6 @@
-# Angular Json Crud
+# Angular Products Crud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+CRUD/UI system developed in Angular9 using json-server and angular-material.
 
 ## To run locally, execute the following commands:
 
